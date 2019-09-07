@@ -1,0 +1,16 @@
+Data Structures/Collection
+String
+- Collection of words, alphabets, sentences...etc...
+- Represented in "" or '' or ''' ''' or """ """
+List
+- Collection of any type of data
+- represented by []
+Tuples
+- similar to list but cannot be changed
+- represented by ()
+Dictionary
+- collection of data in key:value pair
+- represented by {key:value}
+Sets
+- collection of unique type of unordered data
+- represented by {}
